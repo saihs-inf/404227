@@ -16,5 +16,15 @@ namespace daniel_test
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "hello world";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label2.Text = textBox1.Text;
+        }
     }
 }

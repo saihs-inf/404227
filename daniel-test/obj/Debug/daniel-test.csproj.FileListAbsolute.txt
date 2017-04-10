@@ -1,1 +1,9 @@
 C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\bin\Debug\daniel-test.exe.config
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\bin\Debug\daniel-test.exe
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\bin\Debug\daniel-test.pdb
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\obj\Debug\daniel-test.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\obj\Debug\daniel_test.Form1.resources
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\obj\Debug\daniel_test.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\obj\Debug\daniel-test.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\obj\Debug\daniel-test.exe
+C:\Users\INF2A-user\Desktop\daniel-test\daniel-test\obj\Debug\daniel-test.pdb
