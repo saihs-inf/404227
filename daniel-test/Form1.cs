@@ -31,5 +31,10 @@ namespace daniel_test
         {
             MessageBox.Show("Nice to meet you");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("bye bye");
+        }
     }
 }
